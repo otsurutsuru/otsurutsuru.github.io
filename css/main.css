@@ -1,0 +1,40 @@
+body{
+	background: #5F80E7;
+}
+#prof{
+	width: 570px;
+	margin: 80px auto 0;
+	background: #FFF;
+	border: 3px solid rgba(0,0,0,0.3);
+	border-radius: 20px;
+	padding: 20px 40px 50px;
+}
+#prof .div01 p{
+	height: 15px;
+}
+#prof table{
+	float: left;
+	margin: 10px 50px;
+}
+#prof .div01{
+	float: left;
+}
+.clear{
+	clear: both;
+	margin-bottom: 6px;
+	height: 40px;
+}
+.div02{
+	width: 200px;
+	margin: 0 auto;
+}
+.to_link{
+	font-size: 20px;
+	background: #5FADEB;
+	width: 200px;
+	padding: 20px;
+	margin: 20px 0;
+	text-decoration: none;
+	color: #FFF;
+	border-radius: 20px;
+}
